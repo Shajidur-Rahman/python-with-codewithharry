@@ -10,22 +10,21 @@ z = 2
 print(f"the remainder of {c} and {z} is {c%z}")
 
 # num 3 problem
-# d = input('give me some num/str/bool: ')
-# print(type(d))
+d = input('give me some num/str/bool: ')
+print(type(d))
 
 # here stoped
 
 # num 4 problem
-# a = 34
-# b = 80
-# res = (a>b)
-# print(res)
+a = 34
+b = 80
+res = (a>b)
+print(res)
 
 # num 5 problem
-# e = int(input('Give me the first number: '))
-# f = int(input('Give me the second number: '))
-# print((e+f)/2)
+e = int(input('Give me the first number: '))
+f = int(input('Give me the second number: '))
+print((e+f)/2)
 
-# num 6 problem
 # g = int(input('Give me the number: '))
 # print(g**2)
