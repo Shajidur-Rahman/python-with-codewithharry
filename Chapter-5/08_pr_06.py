@@ -1,0 +1,15 @@
+friends = {}
+friend1 = input('Enter your name: ')
+lan1 = input(f'Enter your favourite language  \n{friend1}')
+friend2 = input('Enter your name: ')
+lan2 = input(f'Enter your favourite language  \n{friend2}')
+friend3 = input('Enter your name: ')
+lan3 = input(f'Enter your favourite language  \n{friend3}')
+friend4 = input('Enter your name: ')
+lan4 = input(f'Enter your favourite language  \n{friend4}')
+
+friends.update({friend1:lan1, friend2:lan2,friend3:lan3,friend4:lan4})
+# friends = friends.update({friend2:lan2})
+# friends = friends.update({friend3:lan3})
+# friends = friends.update({friend4:lan4})
+print(friends)
