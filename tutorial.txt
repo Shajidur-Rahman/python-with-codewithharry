@@ -11,3 +11,4 @@ chapter 08 finished
 game finished
 chapter 09 finished
 chapter 10 started
+end_of_the_day
