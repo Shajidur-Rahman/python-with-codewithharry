@@ -1,4 +1,4 @@
 a = 7
-lis = [i*a for i in range(1,11)]
-"\n".join(lis)
-## problem
+lis = [str(i*a) for i in range(1,11)]
+res = "\n".join(lis)
+print(res)
